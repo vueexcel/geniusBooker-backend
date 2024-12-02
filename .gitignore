@@ -1,0 +1,39 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+__pycache__/
+
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+/static/
+/media/
+
+# Virtual environment
+venv/
+env/
+.env
+myenv/
+*.env
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# IDEs and editors
+.idea/
+*.suo
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+.env
+
+__pycache__

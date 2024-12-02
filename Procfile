@@ -1,0 +1,1 @@
+web:waitress-serve --listen=0.0.0.0:8000 Genius_booker.wsgi:application
